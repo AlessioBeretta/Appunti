@@ -7,5 +7,11 @@ Il vantaggio infatti è quello di dare alcune responsabilità a un'azienda come 
 
 E' possibile gestire in contemporanea con es. Microsoft, alcuni servizi come l'aggiornamento del SO, impostazioni firewall e piattaforma di autenticazioni.
 
+Ad esempio:
+
+Microsoft: protezione fisica dei datacenter, aggiornamenti dell’infrastruttura, disponibilità del servizio.
+
+Cliente: configurazione firewall, gestione delle identità e delle password, crittografia dei dati, policy di sicurezza interne.
+
 ![[Pasted image 20250914153627.png]]
 
